@@ -83,7 +83,7 @@ In this case, start with the list of attributes in this topic and identify those
 | l |X |X | | |
 | legacyExchangeDN |X |X |X | |
 | mailNickname |X |X |X | |
-| mangedBy | | |X | |
+| managedBy | | |X | |
 | manager |X |X | | |
 | member | | |X | |
 | mobile |X |X | | |
@@ -139,7 +139,7 @@ In this case, start with the list of attributes in this topic and identify those
 | msOrg-IsOrganizational | | |X | |
 | objectSID |X | |X |mechanical property. AD user identifier used to maintain sync between Azure AD and AD. |
 | oOFReplyToOriginator | | |X | |
-| otherFacsimileTelephone |X |X | | |
+| otherFacsimileTelephoneNumber |X |X | | |
 | otherHomePhone |X |X | | |
 | otherTelephone |X |X | | |
 | pager |X |X | | |
@@ -164,7 +164,7 @@ In this case, start with the list of attributes in this topic and identify those
 | usageLocation |X | | |mechanical property. The user’s country. Used for license assignment. |
 | userCertificate |X |X | | |
 | userPrincipalName |X | | |UPN is the login ID for the user. Most often the same as [mail] value. |
-| userSMIMECertificates |X |X | | |
+| userSMIMECertificate |X |X | | |
 | wWWHomePage |X |X | | |
 
 ## SharePoint Online
